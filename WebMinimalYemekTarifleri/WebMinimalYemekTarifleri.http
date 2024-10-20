@@ -1,0 +1,6 @@
+@WebMinimalYemekTarifleri_HostAddress = http://localhost:5011
+
+GET {{WebMinimalYemekTarifleri_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
